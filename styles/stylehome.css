@@ -1,0 +1,47 @@
+
+/*External stylesheet*/
+h1 {
+    color: red;
+}
+nav ul li {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li {
+    list-style-type: none;
+    background-color: #B2B2B2;
+    display: 15px;
+    margin: 5px;
+    border: 2px solid red;
+    border-radius: 10px;
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover
+{ background-color : rgb(112, 27, 186)}
+
+header{
+    background-color: #B2B2B2 ;
+    padding : 10px
+}
+
+footer{
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: #000000 ;
+}
+
+body {
+    font-family: Verdana;
+    margin:0;
+}
+
